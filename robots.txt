@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Elmahallawy.github.io/sitemap.xml
+Sitemap: https://Elmahallawy.github.io//sitemap.xml
