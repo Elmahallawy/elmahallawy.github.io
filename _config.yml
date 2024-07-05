@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
-first_name: Ahmed
+title: <strong>Mohamed</strong> Elmahallawy # the website title (if blank, full name will be used instead)
+first_name: Mohamed
 middle_name: 
 last_name: Elmahallawy
 email: mexqk@mst.edu
