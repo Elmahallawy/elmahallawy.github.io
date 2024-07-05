@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-06-24  
 inline: true
 related_posts: false
 ---
 
-A New Paper got accepted at IEEE MASS :sparkles: :smile:
+Congratulations! My one papers was accepted by IEEE MASS 2024 conference.  :sparkles:  

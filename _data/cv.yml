@@ -2,31 +2,53 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mohamed Elmahallawy
+    - name: Affiliation
+      value: Missouri University of Science and Technology    
+    - name: Position
+      value: Postdoc      
     - name: Date of Birth
-      value: 14th March 1879
+      value: 01st October 1990
     - name: Languages
-      value: English, German
+      value: Arabic, English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D
+      institution: Missouri University of Science and Technology
+      year: 2022/01- 2024/03
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Research Area:<strong> Cypersecuity and Trustworthy AI</strong>
+        - title: Selected Courses
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Introduction to Cryptography.
+            - Advanced Algorithms.
+            - Advanced Topics in Data Mining.
+            - Advanced Topics In Artificial Intelligence.
+    - title: MS.c
+      institution: University of Rostock
+      year: 2017/10- 2019/05
       description:
-        - Description 1.
-        - Description 2.
+        - Research Area:<strong> Multi-Objective Optimization</strong>
+        - title: Selected Courses
+          contents:
+            - Selected Topics in Embedded Systems Design.
+            - Embedded Multi-Processor Systems.
+            - Image/video Processing and Coding.
+            - Real Time Systems.
+    - title: BS.c
+      institution: Higher Institute of Engineering in Elshorouk City
+      year: 2007/09- 2012/07
+      description:
+        - Research Area:<strong> Communication and Control Systems</strong>
+        - title: Selected Courses
+          contents:
+            - Analog/Digital Communications.
+            - Computer Programming Languages.
+            - Network and System Analysis.
+            - Electronic Circuits.
+
 
 - title: Experience
   type: time_table

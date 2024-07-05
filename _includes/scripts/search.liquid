@@ -540,10 +540,10 @@
             },
           },
         {%- endif -%}
-        {%- if site.rss_icon -%}
+        {%- if site.linkedin_url -%}
           {
             id: 'socials-rss',
-            title: 'RSS Feed',
+            title: 'LinkedIn',
             section: 'Socials',
             handler: () => {
               window.open("{{ site.baseurl }}/feed.xml", "_blank");

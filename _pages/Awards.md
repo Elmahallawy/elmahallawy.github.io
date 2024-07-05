@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Awards
 nav: true
 nav_order: 5
 cv_pdf: Mohamed_Updated_resume.pdf
