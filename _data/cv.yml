@@ -57,31 +57,27 @@
       institution: Missouri University of Science and Technology
       year: Nar 2024 - present
       description:
-        - Conducting research on developing a global ML approach for underground mines to enhance miners' safety while
-preserving the collected data privacy, and exploring secure navigation in GPS-denied environments. .
-        - - Providing mentorship for 5 Ph.D. students..
+        - Conducting research on developing a global ML approach for underground mines to enhance miners' safety while preserving the collected data privacy, and exploring secure navigation in GPS-denied environments. .
+        - Providing mentorship for 5 Ph.D. students..
     - title: Graduate Research Assistant, Dept. of Computer Science, USA.
       institution: Missouri University of Science and Technology
       year: Jan. 2022- Feb. 2024
       description:
-        - Conducting research across various projects at the TrustAIoT lab, primarily focused on developing a secure and
-efficient federated learning model for low Earth orbit (LEO) satellite networks. 
+        - Conducting research across various projects at the TrustAIoT lab, primarily focused on developing a secure and efficient federated learning model for low Earth orbit (LEO) satellite networks. 
         - Providing mentorship to undergraduate, M.Sc., and junior Ph.D. students.
 
     - title: Research Assistant, Dept. of Electrical and Computer Engineering, USA.
       institution: Tennessee Technological University 
       year: Jul. 2021 - Dec. 2021
       description:
-        - Conducting research on the use of machine learning to estimate the lifespan of Li-Ion batteries in electric vehicles
-(EVs), and optimizing battery performance to extend its life. 
+        - Conducting research on the use of machine learning to estimate the lifespan of Li-Ion batteries in electric vehicles (EVs), and optimizing battery performance to extend its life. 
         - Teaching Assistance for the Undergraduate Courses.
 
     - title: Teaching Assistant, Dept. of Communication and Computing Engineering
       institution: Higher Institute of Engineering in Elshorouk City, Egypt.
       year: Jan. 201 -Aug.2017
       description:
-      -Taught undergraduate-level classes, wrote supplementary lecture notes, coordinated exams, and co-supervised
-graduation projects.
+        - Taught undergraduate-level classes, wrote supplementary lecture notes, coordinated exams, and co-supervised graduation projects.
 
 
     - title: Associate Professor of Theoretical Physics
@@ -121,4 +117,4 @@ graduation projects.
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
