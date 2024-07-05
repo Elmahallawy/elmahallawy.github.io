@@ -30,8 +30,17 @@ Mohamed Elmahallawy is a Postdoctoral Fellow in the Department of Computer Scien
 
 
 His innovative work on devevloping secure and trustworking AI in many applications has garnered significant attention, resulting in many interanational talks. In addition to his research contributions, Mohamed actively participates in the academic community by serving as a reviewer for several journals, including JSAC, TMC, TSUSC, TII, and EAAI.
+<hr>
+<span style="font-size: 24px;">Research Interest</span>
+--
+Cutting-edge Research in Ensuring the Security and Trustworthy of Artificial Intelligence and Internet of Things, encompassing:
+<li> Advanced Machine/Federated Learning Techniques</li>
+<li>Robust Cybersecurity Measures and Encryption</li>
+<li>Integration and Optimization of Internet of Things</li>
 
 <hr>
-<strong><span style="color: red;font-size: 22px;">[We are hiring!]</span></strong>  My lab is currently seeking highly <strong><span style="color: red;">self motivated Ph.D. students.</span></strong> to join our team. If you are interested in research related to developing a secure and truthworhty AI for extensive applications, we warmly invite you to contact me via email at meqxk@mst.edu. Please include your <strong>CV, transcripts, TOEFL & GRE scores</strong>, and any other relevant materials in your email. To ensure your application receives prompt attention, kindly use the subject format: “Potential_PhD_student_Your Name_…”.
+<span style="font-size: 24px;">For Perspective Students</span>
+
+<strong><span style="color: red;font-size: 20px;">[We are hiring!]</span></strong>  My lab is currently seeking highly <strong><span style="color: red;">self motivated Ph.D. students.</span></strong> to join our team. If you are interested in research related to developing a secure and truthworhty AI for extensive applications, we warmly invite you to contact me via email at meqxk@mst.edu. Please include your <strong>CV, transcripts, TOEFL & GRE scores</strong>, and any other relevant materials in your email. To ensure your application receives prompt attention, kindly use the subject format: “Potential_PhD_student_Your Name_…”.
 
 
