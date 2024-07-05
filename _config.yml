@@ -2,8 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+<<<<<<< HEAD
 title: # the website title (if blank, full name will be used instead)
 first_name: as
+=======
+title: <strong>Mohamed</strong> Elmahallawy # the website title (if blank, full name will be used instead)
+first_name: Mohamed
+>>>>>>> 2bba083ba85ac78ba27c4a86b98d51e93a87d7dd
 middle_name: 
 last_name: Elmahallawy
 email: mexqk@mst.edu
