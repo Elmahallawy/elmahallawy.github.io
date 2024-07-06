@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <strong>Mohamed</strong> Elmahallawy # the website title (if blank, full name will be used instead)
+title: Mohamed Elmahallawy # the website title (if blank, full name will be used instead)
 first_name: Mohamed
 middle_name: 
 last_name: Elmahallawy
@@ -41,7 +41,9 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-linkedin_url: true
+linkedin_icon: true
+
+
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -51,6 +53,9 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
+
+
+
 
 # Dimensions
 max_width: 930px
@@ -82,7 +87,7 @@ gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
-keybase_username: # your keybase user name
+keybase_username: mohamed-elmahallawy # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: # your LinkedIn user name
@@ -165,10 +170,10 @@ disqus_shortname: al-folio # put your disqus shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
-# you can display them in your blog by adding a link to the LinkedIn feed.
+# you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    linkedin_url: https://www.linkedin.com/in/mohamed-elmahallawy/
+    rss_url: https://medium.com/@al-folio/feed
   - name: Google Blog
     posts:
       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
@@ -188,11 +193,11 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
+  News:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: /News/:path/
   projects:
     output: true
     permalink: /projects/:path/

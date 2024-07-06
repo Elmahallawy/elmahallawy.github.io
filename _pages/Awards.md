@@ -10,7 +10,7 @@ nav_order: 6
 
 <ul class="circle-bullets">
 <li>Dean’s Scholar Award, Missouri University of Science and Technology, USA Apr. 2024</li>
-<li>Best Paper Runner Up Award, IEEE Conference on Pervasive Computing and Communications Mar.2024</li>
+<li>Best Paper Runner Up Award, IEEE Conference on Pervasive Computing and Communications Mar.2024 <a href="/assets/pdf/Percom_certificate.pdf" target="_blank">[See Certification]</a></li>
 <li>NSF Student Travel Award, IEEE Conference on Pervasive Computing and Communications Feb. 2024</li>
 <li>NSF Student Travel Award, IEEE Global Communication Conference (GlobeCom) Dec. 2023</li>
 <li>3MT Final List Competition Award, Missouri University of Science and Technology, USA Nov. 2023</li>
@@ -21,7 +21,7 @@ nav_order: 6
 <li>Best Teaching Award, The Higher Institute of Engineering in Elshorouk, Egypt Aug. 20172</li>
 <li>M.Sc. Scholarship, University of Rostock, Germany Oct. 2017</li>
 <li>Excellent Student Award, The Higher Institute of Engineering in Elshorouk City, Egypt Sep. 2012</li>
-<li>B.Sc. Scholarship, The Higher Institute of Engineering in Elshorouk City, Egypt/li>
+<li>B.Sc. Scholarship, The Higher Institute of Engineering in Elshorouk City, Egypt</li>
 </ul>
 
 

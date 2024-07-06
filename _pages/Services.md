@@ -8,11 +8,11 @@ nav_order: 6
 ---
 <span style="font-size: 20px;">I have served as a reviewer for numerous leading conferences and journals:</span> 
 <ul class="circle-bullets">
-<li> IEEE Journal on selected Areas in Communication (JSAC)</li>
-<li>IEEE Transactions on Industrial Informatics (TII)</li>
-<li>IEEE Transactions on Sustainable Computing (TSUC)</li>
+<li> IEEE Journal on selected Areas in Communication (JSAC) <a href="/assets/pdf/JSAC_certificate.pdf" target="_blank">[See Certification]</a></li>
+<li>IEEE Transactions on Industrial Informatics (TII) <a href="/assets/pdf/JTII_Certificate.pdf" target="_blank">[See Certification]</a></li>
+<li>IEEE Transactions on Sustainable Computing (TSUC) <a href="/assets/pdf/TSUS_Certificate.pdf" target="_blank">[See Certification]</a></li>
 <li>IEEE Transactions on Mobile Computing (TMC)</li>
-<li>Elsevier Journals: Engineering Apllications of Artifical Intelligence (EAAI)</li>
+<li>Elsevier Journals: Engineering Apllications of Artifical Intelligence (EAAI) <a href="/assets/pdf/Certificate_EAAI.pdf" target="_blank">[See Certification]</a></li>
 <li>Springer, Peer-to-Peer Networking and Applications Journal</li>
 <li>IEEE International Conference on Communications (ICC)</li>
 <li>International Joint Conference on Artificial Intelligence (IJCAI)</li>
