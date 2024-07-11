@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations! My paper was accepted by IEEE PerCom 2024 Confernce.  :sparkles:  
+Congratulations! My paper was accepted by the IEEE PerCom 2024 Conference.  :sparkles:  
