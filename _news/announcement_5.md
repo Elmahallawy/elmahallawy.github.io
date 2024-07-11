@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations! My paper was accepted by IEEE JSAC Journal.  :sparkles:  
+Congratulations! My paper was accepted by the IEEE JSAC Journal.  :sparkles:  
