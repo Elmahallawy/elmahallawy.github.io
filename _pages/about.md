@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: Post Doctoral Fellow, <a href='#'>Missouri Univesity Of Science and Technology</a>
