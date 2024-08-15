@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Post Doctoral Fellow, <a href='#'>Missouri Univesity Of Science and Technology</a>
+subtitle: Assistant Professor In Computer Science and Cybersecurity,<a href="https://wsu.edu/">Washington State University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>Office:</strong> 304 Computer Science Building, MS&T, Rolla, MO 65401</p>
+    <p><strong>Office:</strong> 134G Floyd Building, WSU, Richland, WA 99354</p>
 
 
 
@@ -34,7 +34,7 @@ social: true # includes social icons at the bottom of the page
     }
 </style>
 
-<p class="justified-text">Mohamed Elmahallawy is a Postdoctoral Fellow in the Department of Computer Science at Missouri University of Science and Technology collaborating with <a href="https://web.mst.edu/~cswebdb/people/madria.html">Dr. Sanjay Madria</a>. His academic focus includes <strong>Machine Learning, Federated Learning, Cybersecurity, and Cryptography</strong>, with the aim of developing trustworthy AI for a wide range of applications, including satellite communication, underground mining, medical applications, and the Internet of Things. During his M.Sc. under the supervision of  <a href="https://www.imd.uni-rostock.de/team/mitarbeitende/persoenliche-seiten/christian-haubelt/">Prof.Dr-Ing. Christian Haubelt</a> and his Ph.D. journey under the guidance of <a href="https://tluocs.github.io/">Dr. Tony T. Luo</a>, Mohamed gained valuable experience by working at several international institutions, including Rostock University in Germany, Tennessee Technological University, and Missouri University of Science and Technology in the USA. He has published over 10 papers in leading journals (e.g., <a href="https://ieeexplore.ieee.org/abstract/document/10438925">JSAC</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10438925">IEEE IoT</a>) and conferences (e.g., <a href="https://ieeexplore.ieee.org/abstract/document/10494442">PerCom</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10214895">MDM</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10021101">Big Data</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10436841">GlobeCom</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10279316">ICC</a>). Notably, his recent paper presented at the IEEE PerCom conference was awarded with the Best Paper Runner-up Award.</p>
+<p class="justified-text">Mohamed Elmahallawy is an Assistant Professor in the Department of Computer Science and Cybersecurity at Washington State University. He is also a former Postdoctoral Fellow in the Department of Computer Science at Missouri University of Science and Technology collaborating with <a href="https://web.mst.edu/~cswebdb/people/madria.html">Dr. Sanjay Madria</a>. His academic focus includes <strong>Machine Learning, Federated Learning, Cybersecurity, and Cryptography</strong>, with the aim of developing trustworthy AI for a wide range of applications, including satellite communication, underground mining, medical applications, and the Internet of Things. During his M.Sc. under the supervision of  <a href="https://www.imd.uni-rostock.de/team/mitarbeitende/persoenliche-seiten/christian-haubelt/">Prof.Dr-Ing. Christian Haubelt</a> and his Ph.D. journey under the guidance of <a href="https://tluocs.github.io/">Dr. Tony T. Luo</a>, Mohamed gained valuable experience by working at several international institutions, including Rostock University in Germany, Tennessee Technological University, and Missouri University of Science and Technology in the USA. He has published over 10 papers in leading journals (e.g., <a href="https://ieeexplore.ieee.org/abstract/document/10438925">JSAC</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10438925">IEEE IoT</a>) and conferences (e.g., <a href="https://ieeexplore.ieee.org/abstract/document/10494442">PerCom</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10214895">MDM</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10021101">Big Data</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10436841">GlobeCom</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10279316">ICC</a>). Notably, his recent paper presented at the IEEE PerCom conference was awarded with the Best Paper Runner-up Award.</p>
 
 
 <p class="justified-text">His innovative work on devevloping secure and trustworking AI in many applications has garnered significant attention, resulting in many interanational talks. In addition to his research contributions, Mohamed actively participates in the academic community by serving as a reviewer for several journals, including JSAC, TMC, TSUSC, TII, and EAAI.</p>
