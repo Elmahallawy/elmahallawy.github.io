@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor In Computer Science and Cybersecurity,<a href="https://wsu.edu/">Washington State University</a>
+subtitle: Assistant Professor In Computer Science and Cybersecurity, <a href="https://wsu.edu/">Washington State University</a>
 
 profile:
   align: right
