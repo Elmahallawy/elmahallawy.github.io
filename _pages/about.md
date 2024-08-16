@@ -49,7 +49,7 @@ Cutting-edge Research in Ensuring the Security and Trustworthy of Artificial Int
 <hr>
 <span style="font-size: 24px;">For Perspective Students</span>
 
-<p class="justified-text"><strong><span style="color: red;font-size: 20px;">[We are hiring!]</span></strong>  My lab is currently seeking highly <strong><span style="color: red;">self motivated Ph.D. students</span></strong> to join our team. If you are interested in research related to developing a secure and truthworhty AI for extensive applications, I warmly invite you to contact me via email at <a href="mailto:meqxk@mst.edu">meqxk@mst.edu</a>. Please include your <strong>CV, transcripts, TOEFL & GRE scores</strong>, and any other relevant materials in your email. To ensure your application receives prompt attention, kindly use the subject format: “Potential_PhD_student_Your_Name”. </p>
+<p class="justified-text"><strong><span style="color: red;font-size: 20px;">[We are hiring!]</span></strong>  My lab is currently seeking highly <strong><span style="color: red;">self motivated Ph.D. students</span></strong> to join our team. If you are interested in research related to developing a secure and truthworhty AI for extensive applications, I warmly invite you to contact me via email at <a href="mailto:meqxk@mst.edu">mohamed.elmahallawy@wsu.edu</a>. Please include your <strong>CV, transcripts, TOEFL & GRE scores</strong>, and any other relevant materials in your email. To ensure your application receives prompt attention, kindly use the subject format: “Potential_PhD_student_Your_Name”. </p>
 
 
 
