@@ -9,7 +9,10 @@ nav_order: 6
 
 
 <ul class="circle-bullets">
-<li>Dean’s Scholar Award, Missouri University of Science and Technology, USA Apr. 2024</li>
+<li>Dean’s Scholar Award, Missouri University of Science and Technology, USA Apr. 2024</li> <a href="https://news.mst.edu/2024/05/sts-college-of-engineering-and-computing-ph-d-students-receive-deans-awards/">[See News]</a>
+
+
+  
 <li>Best Paper Runner Up Award, IEEE Conference on Pervasive Computing and Communications Mar.2024 <a href="/assets/pdf/Percom_certificate.pdf" target="_blank">[See Certification]</a></li>
 <li>NSF Student Travel Award, IEEE Conference on Pervasive Computing and Communications Feb. 2024</li>
 <li>NSF Student Travel Award, IEEE Global Communication Conference (GlobeCom) Dec. 2023</li>
