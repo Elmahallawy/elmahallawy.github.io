@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-I have authored over 10 papers in esteemed journals and conferences such as JSAC, PerCom, BigData, GlobeCom, and ICC. Notably, I received the Best Paper Runner-up Award at PerCom’24. My publications can be categorized as follows:
+I have authored around 20 papers in esteemed journals and conferences such as JSAC, PerCom, BigData, GlobeCom, and ICC. Notably, I received the Best Paper Runner-up Award at PerCom’24. My publications can be categorized as follows:
 
 <li><strong>Security & Privacy Preserving</strong></li>
 <li><strong>Computing & Communication</strong></li>
