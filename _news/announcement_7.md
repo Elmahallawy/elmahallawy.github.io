@@ -6,17 +6,10 @@ related_posts: false
 ---
 
 Congratulations! <strong>Four of my papers</strong> have been accepted for presentation at the prestigious IEEE BigData 2024 Conference! 🎉
-<li> "Efficient Brain Imaging Analysis for Alzheimer’s and Dementia Detection Using Convolution-Derivative Operations"</li>
-<li>"DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mine"</li>
-<li>"FisherMask: Enhancing Neural Network Labeling Efficiency in Image Classification Using Fisher Information"</li>
-<li>"LPLgrad: Optimizing Active Learning Through Gradient Norm Sample Selection and Auxiliary Model Training"</li>
 
-
-
-
-
-   
-
-
-
-
+<ul>
+  <li>"Efficient Brain Imaging Analysis for Alzheimer’s and Dementia Detection Using Convolution-Derivative Operations"</li>
+  <li>"DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mine"</li>
+  <li>"FisherMask: Enhancing Neural Network Labeling Efficiency in Image Classification Using Fisher Information"</li>
+  <li>"LPLgrad: Optimizing Active Learning Through Gradient Norm Sample Selection and Auxiliary Model Training"</li>
+</ul>
