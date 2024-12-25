@@ -89,7 +89,12 @@ jobs:
 
       - name: Run link checker and ignore specific URLs 🔗
         run: |
-          link-checker _site --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10494442" --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10279316" --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10438925" --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10021101" --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10214895" --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10436841"
+          link-checker _site --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10494442" \
+                            --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10279316" \
+                            --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10438925" \
+                            --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10021101" \
+                            --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10214895" \
+                            --ignore-urls "https://ieeexplore.ieee.org/abstract/document/10436841"
 
       - name: Purge unused CSS 🧹
         run: |
