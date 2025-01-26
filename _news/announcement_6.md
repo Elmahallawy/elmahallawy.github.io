@@ -11,7 +11,7 @@ related_posts: false
         text-align: justify;
     }
 </style>
-<p class="justified-text">Missouri University of Science and Technology recently honored Mohamed Elmahallawy and six other PhD students with the Dean’s Ph.D. Scholar Award, recognizing their scholarly contributions as among the most productive Ph.D. students. Additionally, three students received the Dean’s Graduate Educator Award for excellence in teaching.</p>
+<p class="justified-text">Missouri University of Scienc and Technology recently honored Mohamed Elmahallawy and six other PhD students with the Dean’s Ph.D. Scholar Award, recognizing their scholarly contributions as among the most productive Ph.D. students. Additionally, three students received the Dean’s Graduate Educator Award for excellence in teaching.</p>
 
 <p class="justified-text">“Missouri S&T is home to some of the nation’s best Ph.D. students, and the recipients of these awards are among the best of the best,” says Dr. Francisca Oboh-Ikuenobe, CEC’s associate dean for academic affairs. “These students have demonstrated excellence in their fields, either through their scholarship or teaching skills, and they should be commended, along with their advisors."</p>
 
