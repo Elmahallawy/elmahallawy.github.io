@@ -7,7 +7,7 @@ subtitle: Assistant Professor at Computer Science and Cybersecurity Program, <a 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false  # crops the image to make it circular
   more_info: >
     <p><strong>Office:</strong> 134K  Elson S. Floyd Building, 2710 Crimson Way, Richland, WA 99354. </p>
 
