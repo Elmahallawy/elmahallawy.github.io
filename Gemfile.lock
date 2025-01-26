@@ -21,7 +21,7 @@ GEM
     bibtex-ruby (6.1.0)
       latex-decode (~> 0.0)
       racc (~> 1.7)
-    bigdecimal (3.1.8)
+    bigdecimal (3.1.9)
     citeproc (1.0.10)
       namae (~> 1.0)
     citeproc-ruby (1.1.14)
@@ -201,6 +201,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  bigdecimal (= 3.1.9)
   classifier-reborn
   css_parser
   feedjira
