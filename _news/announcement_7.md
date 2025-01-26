@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Congratulations! <strong>Four of my papers</strong> have been accepted for presentation at the prestigious IEEE BigData 2024 Conference! 🎉
+Congratulations! Four of my papers have been accepted for presentation at the prestigious IEEE BigData 2024 Conference! 🎉
 
 <ul>
   <li>"Efficient Brain Imaging Analysis for Alzheimer’s and Dementia Detection Using Convolution-Derivative Operations"</li>
