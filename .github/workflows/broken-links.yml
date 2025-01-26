@@ -49,9 +49,7 @@ jobs:
         with:
           fail: true
           args: >
-            --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0' 
-            --retry-count 3
-            --wait-time 2s
+            --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0'
             --exclude https://ieeexplore.ieee.org/abstract/document/10021101
             --exclude https://ieeexplore.ieee.org/abstract/document/10438925
             --exclude https://ieeexplore.ieee.org/abstract/document/10494442
