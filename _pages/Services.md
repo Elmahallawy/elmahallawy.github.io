@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /services/
-title: Services 
+title: Services
 #description: {<span style="font-size: 22px;">I have served as a reviewer for numerous conferences and journals.</span> }
-nav: true 
+nav: true
 nav_order: 6
 ---
-<span style="font-size: 20px;">I have served as a reviewer for numerous leading conferences and journals:</span> 
+
+<span style="font-size: 20px;">I have served as a reviewer for numerous leading conferences and journals:</span>
+
 <ul class="circle-bullets">
 <li> IEEE Journal on selected Areas in Communication (JSAC) <a href="/assets/pdf/JSAC_certificate.pdf" target="_blank">[See Certification]</a></li>
 <li>IEEE Transactions on Industrial Informatics (TII) <a href="/assets/pdf/JTII_Certificate.pdf" target="_blank">[See Certification]</a></li>
@@ -18,7 +20,8 @@ nav_order: 6
 <li>International Joint Conference on Artificial Intelligence (IJCAI)</li>
 </ul>
 
-<span style="font-size: 20px;">I have attended several prestigious conferences:</span> 
+<span style="font-size: 20px;">I have attended several prestigious conferences:</span>
+
 <ul class="circle-bullets">
 <li> IEEE Conference on Pervasive Computing and Communications (PerCom) (Biarritz, France), 2024</li>
 <li>IEEE Global Communication Conference (GlobeCom), (Kuala Lumpur, Malaysia), 2023</li>

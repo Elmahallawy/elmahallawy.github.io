@@ -4,9 +4,9 @@
     - name: Full Name
       value: Mohamed Elmahallawy
     - name: Affiliation
-      value: Missouri University of Science and Technology    
+      value: Missouri University of Science and Technology
     - name: Position
-      value: Postdoc      
+      value: Postdoc
     - name: Date of Birth
       value: 01st October 1990
     - name: Languages
@@ -49,7 +49,6 @@
             - Network and System Analysis.
             - Electronic Circuits.
 
-
 - title: Experience
   type: time_table
   contents:
@@ -63,17 +62,17 @@
       institution: Missouri University of Science and Technology, USA
       year: 01/2022 - 02/2024
       description:
-        - Conducting research across various projects at the TrustAIoT lab, primarily focused on developing a secure and efficient federated learning model for low Earth orbit (LEO) satellite networks. 
+        - Conducting research across various projects at the TrustAIoT lab, primarily focused on developing a secure and efficient federated learning model for low Earth orbit (LEO) satellite networks.
         - Providing mentorship to undergraduate, M.Sc., and junior Ph.D. students.
 
     - title: Research Assistant, Dept. of Electrical and Computer Engineering
-      institution: Tennessee Technological University, USA 
+      institution: Tennessee Technological University, USA
       year: 07/2021 - 12/2021
       description:
-        - Conducting research on the use of machine learning to estimate the lifespan of Li-Ion batteries in electric vehicles (EVs), and optimizing battery performance to extend its life. 
+        - Conducting research on the use of machine learning to estimate the lifespan of Li-Ion batteries in electric vehicles (EVs), and optimizing battery performance to extend its life.
         - Teaching Assistance for the Undergraduate Courses.
 
-    - title: Teaching Assistant, Dept. of Communication and Computing Engineering 
+    - title: Teaching Assistant, Dept. of Communication and Computing Engineering
       institution: Higher Institute of Engineering in Elshorouk City, Egypt.
       year: 01/2014 - 08/2017
       description:
@@ -85,7 +84,7 @@
     - year: 2024
       items:
         - Missouri S&T Dean’s Scholar Award
-        - IEEE PerCom Best Paper Runner Up Award 
+        - IEEE PerCom Best Paper Runner Up Award
         - NSF Student Travel Award, IEEE PerCom
     - year: 2023
       items:
@@ -96,4 +95,3 @@
       items:
         - 3MT Final List Competition Award
         - Missouri S&T Ph.D. Scholarship
-         

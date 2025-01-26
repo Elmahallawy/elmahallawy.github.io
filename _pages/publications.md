@@ -11,8 +11,7 @@ I have authored around 20 papers in esteemed journals and conferences such as JS
 
 <li><strong>Security & Privacy Preserving</strong></li>
 <li><strong>Computing & Communication</strong></li>
-<li><strong>Convergence Speed & Efficiency</strong></li> 
-
+<li><strong>Convergence Speed & Efficiency</strong></li>
 
 <!-- _pages/publications.md -->
 <div class="publications">

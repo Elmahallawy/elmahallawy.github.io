@@ -7,7 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-
 <ul class="circle-bullets">
 <li>Dean’s Scholar Award, Missouri University of Science and Technology, USA Apr. 2024 <a href="https://news.mst.edu/2024/05/sts-college-of-engineering-and-computing-ph-d-students-receive-deans-awards/">[See News]</a></li>
 <li>Best Paper Runner Up Award, IEEE Conference on Pervasive Computing and Communications Mar.2024 <a href="/assets/pdf/Percom_certificate.pdf" target="_blank">[See Certification]</a></li>
@@ -23,17 +22,3 @@ nav_order: 6
 <li>Excellent Student Award, The Higher Institute of Engineering in Elshorouk City, Egypt Sep. 2012</li>
 <li>B.Sc. Scholarship, The Higher Institute of Engineering in Elshorouk City, Egypt</li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-

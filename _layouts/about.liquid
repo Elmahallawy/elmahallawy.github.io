@@ -48,17 +48,13 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
- 
-
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2> 
-<a href="{{ '/publications/' | relative_url }}" style="color: inherit;">
-    <span style="font-size: 1.2em;">Selected Publications</span> 
-    <span style="color: #9932CC; font-size: 1.2em;">[See More]</span>
-</a>        
-        
-        
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit;">
+          <span style="font-size: 1.2em;">Selected Publications</span>
+          <span style="color: #9932CC; font-size: 1.2em;">[See More]</span>
+        </a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}

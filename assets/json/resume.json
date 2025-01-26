@@ -33,7 +33,9 @@
       "startDate": "2022-01-01",
       "endDate": "2024-03-01",
       "score": "4",
-      "courses": ["Advanced Algorithms, Introduction to Cryptography, Advanced Topics in Data Mining, Introduction to Machine/Deep Learning, Advanced Topics in Wireless Networks, Network Performance Analysis, and Advanced Topics In Artificial Intelligence."]
+      "courses": [
+        "Advanced Algorithms, Introduction to Cryptography, Advanced Topics in Data Mining, Introduction to Machine/Deep Learning, Advanced Topics in Wireless Networks, Network Performance Analysis, and Advanced Topics In Artificial Intelligence."
+      ]
     },
     {
       "institution": "The University of Rostock",
@@ -44,9 +46,10 @@
       "startDate": "2017-10-01",
       "endDate": "2019-05-21",
       "score": "3.2",
-      "courses": ["Advanced Algorithms, Introduction to Cryptography, Advanced Topics in Data Mining, Introduction to Machine/Deep Learning, Advanced Topics in Wireless Networks, Network Performance Analysis, and Advanced Topics In Artificial Intelligence."]
+      "courses": [
+        "Advanced Algorithms, Introduction to Cryptography, Advanced Topics in Data Mining, Introduction to Machine/Deep Learning, Advanced Topics in Wireless Networks, Network Performance Analysis, and Advanced Topics In Artificial Intelligence."
+      ]
     }
-
   ],
   "work": [
     {

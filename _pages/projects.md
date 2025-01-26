@@ -8,7 +8,9 @@
 #display_categories: [work, fun]
 #horizontal: false
 ---
+
 I am showcasing here some of the projects I have completed as well as ongoing projects.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

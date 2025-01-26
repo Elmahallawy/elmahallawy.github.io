@@ -4,8 +4,8 @@ title: "Spreading Research Around the World: Developing Machine Learning Models 
 date: 2024-06-05
 inline: false
 related_posts: false
-
 ---
+
 <style>
     .justified-text {
         text-align: justify;
@@ -15,12 +15,6 @@ related_posts: false
 
 <p class="justified-text">His research tackles critical challenges such as security, privacy preservation, bandwidth constraints, and satellite visibility in conventional LEO satellite data transmission. In recognition of his outstanding research contributions, Dr. Elmahallawy received the College of Engineering and Computing Dean’s Award for high research activity, having recently completed his Ph.D. under the mentorship of Dr. Tony Luo.</p>
 
-
-><p>Explore more about our <a href="https://econnection.mst.edu/2024/06/spreading-research-around-the-world-developing-machine-learning-models-on-satellites/" target="_blank" rel="noopener noreferrer">research initiatives</a> and how they are making an impact in the field.</p>
-
+> <p>Explore more about our <a href="https://econnection.mst.edu/2024/06/spreading-research-around-the-world-developing-machine-learning-models-on-satellites/" target="_blank" rel="noopener noreferrer">research initiatives</a> and how they are making an impact in the field.</p>
 
 ---
-
- 
-
-

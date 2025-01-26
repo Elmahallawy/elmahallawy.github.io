@@ -5,4 +5,5 @@ permalink: /News/
 ---
 
 {% include news.liquid %}
+
 <hr>
