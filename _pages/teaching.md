@@ -7,11 +7,12 @@ nav: true
 nav_order: 6
 ---
 
-<span style="font-size: 18px;">Teaching Responsibilities as Assistant Professor</span>
+<span style="font-size: 18px;">Teaching Responsibilities as Assistant Professor at WSU</span>
 
 <ul class="circle-bullets">
+<li>CPT_S 327 (Spring 2025) - Fundamentals of Cyber Security and Cryptography </li>
 
-<li>CPT_S 437 (WSU) - Introduction to Machine Learning, Fall 2024</li>
+<li>CPT_S 437 (Fall 2024)- Introduction to Machine Learning</li>
 </ul>
 
 <span style="font-size: 18px;">Teaching Responsibilities as Teaching Assistant</span>
