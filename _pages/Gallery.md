@@ -4,7 +4,7 @@ permalink: /Gallery/
 title: Gallery
 #description: {<span style="font-size: 22px;">I have served as a reviewer for numerous conferences and journals.</span> }
 nav: true
-nav_order: 8
+nav_order: 7
 ---
 
 
