@@ -52,7 +52,7 @@ nav_order: 7
 
 <!-- Centered Image -->
 <div style="display: flex; justify-content: center; margin: 20px 0;">
-  <img src="/assets/img/gathering.jpg" 
+  <img src="/assets/img/Gathering.jpg" 
        alt="Group Gathering Spring 2025" 
        style="max-width: 80%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </div>
@@ -65,13 +65,13 @@ nav_order: 7
 <div class="swiper-container" style="width: 80%; max-width: 700px; margin: 20px auto;">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <img src="/assets/img/dean_2.jpg" alt="Dean 2" style="width: 80%; border-radius: 10px;" />
+      <img src="/assets/img/Dean_2.jpg" alt="Dean 2" style="width: 80%; border-radius: 10px;" />
     </div>
     <div class="swiper-slide">
-      <img src="/assets/img/dean_1.jpg" alt="Dean 1" style="width: 80%;height:9.8cm; border-radius: 10px;" />
+      <img src="/assets/img/Dean_1.jpg" alt="Dean 1" style="width: 80%;height:9.8cm; border-radius: 10px;" />
     </div>
     <div class="swiper-slide">
-      <img src="/assets/img/dean_3.jpg" alt="Dean 3" style="width: 80%;height:9.8cm; border-radius: 10px;" />
+      <img src="/assets/img/Dean_3.jpg" alt="Dean 3" style="width: 80%;height:9.8cm; border-radius: 10px;" />
     </div>
   </div>
 
