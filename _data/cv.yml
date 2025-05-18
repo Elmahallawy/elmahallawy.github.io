@@ -4,9 +4,9 @@
     - name: Full Name
       value: Mohamed Elmahallawy
     - name: Affiliation
-      value: Missouri University of Science and Technology
+      value: Washington State Univesity
     - name: Position
-      value: Postdoc
+      value: Assistant Professor
     - name: Date of Birth
       value: 01st October 1990
     - name: Languages
@@ -52,12 +52,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor, Computer Science and Cybersecurity Program
+      institution: Washington State Univesity, USA
+      year: 08/2024 - present
+      description:
+        - Teaching undergraduate and graduate-level courses.
+        - Mentoring Ph.D., M.Sc., and undergraduate students on conducting research in AI-driven cybersecurity.
     - title: Postdoc, Dept. of Computer Science
       institution: Missouri University of Science and Technology, USA
-      year: 03/2024 - present
+      year: 03/2024 - 08/2024
       description:
-        - Conducting research on developing a global ML approach for underground mines to enhance miners' safety while preserving the collected data privacy, and exploring secure navigation in GPS-denied environments. .
-        - Providing mentorship for 5 Ph.D. students..
+        - Conducting research on developing a global ML approach for underground mines to enhance miners' safety while preserving the collected data privacy, and exploring secure navigation in GPS-denied environments. 
+        - Providing mentorship for 5 Ph.D. students.
     - title: Graduate Research Assistant, Dept. of Computer Science
       institution: Missouri University of Science and Technology, USA
       year: 01/2022 - 02/2024

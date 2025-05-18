@@ -4,7 +4,7 @@ permalink: /services/
 title: Services
 #description: {<span style="font-size: 22px;">I have served as a reviewer for numerous conferences and journals.</span> }
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 <span style="font-size: 20px;">I have served as a reviewer for numerous leading conferences and journals:</span>
