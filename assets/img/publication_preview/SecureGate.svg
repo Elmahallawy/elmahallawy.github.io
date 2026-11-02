@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#0B4F1A;stop-opacity:1"/><stop offset="100%" style="stop-color:#161B2E;stop-opacity:1"/></linearGradient></defs>
+  <rect width="300" height="200" fill="url(#bg)" rx="4"/>
+  <rect x="0" y="0" width="300" height="4" fill="white" opacity="0.3"/>
+  <rect x="45" y="50" width="30" height="20" rx="3" fill="white" opacity="0.15" stroke="white" stroke-width="1"/>
+  <rect x="82" y="50" width="30" height="20" rx="3" fill="white" opacity="0.15" stroke="white" stroke-width="1"/>
+  <rect x="119" y="50" width="30" height="20" rx="3" fill="#FF6B6B" opacity="0.6" stroke="white" stroke-width="1"/>
+  <rect x="156" y="50" width="30" height="20" rx="3" fill="white" opacity="0.15" stroke="white" stroke-width="1"/>
+  <rect x="193" y="50" width="30" height="20" rx="3" fill="#FF6B6B" opacity="0.6" stroke="white" stroke-width="1"/>
+  <text x="60" y="64" font-family="Arial" font-size="8" fill="white" text-anchor="middle">The</text>
+  <text x="97" y="64" font-family="Arial" font-size="8" fill="white" text-anchor="middle">user</text>
+  <text x="134" y="64" font-family="Arial" font-size="8" fill="white" text-anchor="middle">PII</text>
+  <text x="171" y="64" font-family="Arial" font-size="8" fill="white" text-anchor="middle">data</text>
+  <text x="208" y="64" font-family="Arial" font-size="8" fill="white" text-anchor="middle">PII</text>
+  <rect x="110" y="82" width="80" height="26" rx="5" fill="white" opacity="0.2" stroke="white" stroke-width="1.5"/>
+  <text x="150" y="99" font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">GATE</text>
+  <rect x="58" y="118" width="72" height="18" rx="3" fill="white" opacity="0.2" stroke="white" stroke-width="1"/>
+  <rect x="170" y="118" width="72" height="18" rx="3" fill="white" opacity="0.15" stroke="white" stroke-width="1"/>
+  <text x="94" y="131" font-family="Arial" font-size="9" fill="white" text-anchor="middle">Secure LoRA</text>
+  <text x="206" y="131" font-family="Arial" font-size="9" fill="white" text-anchor="middle">Reveal LoRA</text>
+  <text x="150" y="163" font-family="Arial" font-size="12" font-weight="bold" fill="white" text-anchor="middle">SecureGate: Privacy-Aware</text>
+  <text x="150" y="179" font-family="Arial" font-size="10" fill="white" text-anchor="middle" opacity="0.8">Federated LLM Fine-Tuning (ACL)</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#5C1A00;stop-opacity:1"/><stop offset="100%" style="stop-color:#161B2E;stop-opacity:1"/></linearGradient></defs>
+  <rect width="300" height="200" fill="url(#bg)" rx="4"/>
+  <rect x="0" y="0" width="300" height="4" fill="white" opacity="0.3"/>
+  <path d="M 60 140 Q 60 55 150 55 Q 240 55 240 140" fill="white" opacity="0.05" stroke="white" stroke-width="2"/>
+  <rect x="60" y="58" width="52" height="22" rx="4" fill="#1B56A0" opacity="0.9"/>
+  <rect x="188" y="58" width="52" height="22" rx="4" fill="#C0202E" opacity="0.9"/>
+  <text x="86" y="73" font-family="Arial" font-size="9" font-weight="bold" fill="white" text-anchor="middle">Vision</text>
+  <text x="214" y="73" font-family="Arial" font-size="9" font-weight="bold" fill="white" text-anchor="middle">Language</text>
+  <line x1="112" y1="69" x2="133" y2="83" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <line x1="188" y1="69" x2="167" y2="83" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <rect x="128" y="83" width="44" height="18" rx="4" fill="white" opacity="0.25" stroke="white" stroke-width="1"/>
+  <text x="150" y="96" font-family="Arial" font-size="9" fill="white" text-anchor="middle">Fusion</text>
+  <rect x="115" y="113" width="70" height="20" rx="4" fill="#FF6B00" opacity="0.8"/>
+  <text x="150" y="127" font-family="Arial" font-size="9" font-weight="bold" fill="white" text-anchor="middle">&#x26A0; DISASTER ALERT</text>
+  <line x1="150" y1="101" x2="150" y2="113" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <text x="150" y="163" font-family="Arial" font-size="12" font-weight="bold" fill="white" text-anchor="middle">Multimodal VL Reasoning for</text>
+  <text x="150" y="179" font-family="Arial" font-size="10" fill="white" text-anchor="middle" opacity="0.8">Underground Mining Disasters (WACV)</text>
+</svg>

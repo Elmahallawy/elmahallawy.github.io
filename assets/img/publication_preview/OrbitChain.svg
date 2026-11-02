@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#1B56A0;stop-opacity:1"/><stop offset="100%" style="stop-color:#161B2E;stop-opacity:1"/></linearGradient></defs>
+  <rect width="300" height="200" fill="url(#bg)" rx="4"/>
+  <rect x="0" y="0" width="300" height="4" fill="white" opacity="0.3"/>
+  <circle cx="150" cy="90" r="18" fill="white" opacity="0.15"/>
+  <polygon points="150,72 166,90 150,108 134,90" fill="none" stroke="white" stroke-width="2" opacity="0.8"/>
+  <text x="150" y="95" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">BC</text>
+  <circle cx="60" cy="55" r="12" fill="none" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <line x1="68" y1="55" x2="72" y2="55" stroke="white" stroke-width="2" opacity="0.6"/>
+  <line x1="48" y1="55" x2="52" y2="55" stroke="white" stroke-width="2" opacity="0.6"/>
+  <circle cx="240" cy="55" r="12" fill="none" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <line x1="228" y1="55" x2="232" y2="55" stroke="white" stroke-width="2" opacity="0.6"/>
+  <line x1="248" y1="55" x2="252" y2="55" stroke="white" stroke-width="2" opacity="0.6"/>
+  <circle cx="60" cy="125" r="12" fill="none" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="240" cy="125" r="12" fill="none" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <line x1="72" y1="63" x2="135" y2="82" stroke="white" stroke-width="1" opacity="0.4" stroke-dasharray="4,3"/>
+  <line x1="228" y1="63" x2="165" y2="82" stroke="white" stroke-width="1" opacity="0.4" stroke-dasharray="4,3"/>
+  <line x1="72" y1="118" x2="135" y2="97" stroke="white" stroke-width="1" opacity="0.4" stroke-dasharray="4,3"/>
+  <line x1="228" y1="118" x2="165" y2="97" stroke="white" stroke-width="1" opacity="0.4" stroke-dasharray="4,3"/>
+  <rect x="133" y="22" width="34" height="14" rx="3" fill="white" opacity="0.2"/>
+  <text x="150" y="33" font-family="Arial" font-size="9" fill="white" text-anchor="middle">HAP</text>
+  <line x1="150" y1="36" x2="150" y2="72" stroke="white" stroke-width="1" opacity="0.5" stroke-dasharray="3,3"/>
+  <text x="150" y="158" font-family="Arial" font-size="12" font-weight="bold" fill="white" text-anchor="middle">Blockchain-Based Federated</text>
+  <text x="150" y="175" font-family="Arial" font-size="10" fill="white" text-anchor="middle" opacity="0.8">Satellite Learning (OrbitChain)</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#374151;stop-opacity:1"/><stop offset="100%" style="stop-color:#161B2E;stop-opacity:1"/></linearGradient></defs>
+  <rect width="300" height="200" fill="url(#bg)" rx="4"/>
+  <rect x="0" y="0" width="300" height="4" fill="white" opacity="0.3"/>
+  <path d="M 60 135 Q 60 60 150 60 Q 240 60 240 135" fill="none" stroke="white" stroke-width="3" opacity="0.5"/>
+  <line x1="60" y1="135" x2="60" y2="145" stroke="white" stroke-width="3" opacity="0.5"/>
+  <line x1="240" y1="135" x2="240" y2="145" stroke="white" stroke-width="3" opacity="0.5"/>
+  <path d="M 150 68 L 165 76 L 165 95 Q 165 107 150 112 Q 135 107 135 95 L 135 76 Z" fill="white" opacity="0.2" stroke="white" stroke-width="1.5"/>
+  <text x="150" y="96" font-family="Arial" font-size="11" fill="white" text-anchor="middle" font-weight="bold">FL</text>
+  <circle cx="90" cy="118" r="6" fill="white" opacity="0.5"/>
+  <circle cx="120" cy="128" r="6" fill="white" opacity="0.5"/>
+  <circle cx="180" cy="128" r="6" fill="white" opacity="0.5"/>
+  <circle cx="210" cy="118" r="6" fill="white" opacity="0.5"/>
+  <path d="M 90 112 Q 120 105 150 112" fill="none" stroke="white" stroke-width="1" opacity="0.4"/>
+  <path d="M 210 112 Q 180 105 150 112" fill="none" stroke="white" stroke-width="1" opacity="0.4"/>
+  <rect x="142" y="30" width="16" height="12" rx="2" fill="white" opacity="0.3"/>
+  <path d="M 145 30 Q 145 24 150 24 Q 155 24 155 30" fill="none" stroke="white" stroke-width="2" opacity="0.6"/>
+  <text x="150" y="163" font-family="Arial" font-size="12" font-weight="bold" fill="white" text-anchor="middle">Privacy-Preserving FL for</text>
+  <text x="150" y="179" font-family="Arial" font-size="10" fill="white" text-anchor="middle" opacity="0.8">Underground Mine Safety</text>
+</svg>
