@@ -14,7 +14,7 @@ h1.post-title{font-family:'Playfair Display',serif!important;font-size:40px!impo
 /* Section headers */
 .svc-section{margin:28px 0 16px}
 .svc-section h2{font-family:'Playfair Display',serif;font-size:20px;font-weight:700;color:#161B2E;margin:0 0 16px;padding-bottom:8px;border-bottom:2px solid #E5E7EB}
-/* Featured award cards (top-tier) */
+/* Featured award cards */
 .award-card{border-radius:8px;padding:14px 18px;margin-bottom:12px}
 .award-card-gold{background:#FFFBEB;border:1px solid #FDE68A;border-left:4px solid #D97706}
 .award-card-crimson{background:#FFF8F8;border:1px solid #FECACA;border-left:4px solid #C0202E}
@@ -26,7 +26,7 @@ h1.post-title{font-family:'Playfair Display',serif!important;font-size:40px!impo
 .award-link.red{color:#C0202E!important}
 .award-link.amber{color:#D97706!important}
 .award-link.blue{color:#1B56A0!important}
-/* Award table (compact rows) */
+/* Award table */
 .award-table{width:100%;border-collapse:separate;border-spacing:0}
 .award-table th{font-size:11px;color:#6B7280;font-weight:600;letter-spacing:.5px;text-transform:uppercase;padding:8px 12px;background:#F9FAFB;border-bottom:1px solid #E5E7EB}
 .award-table td{font-size:13px;color:#2D3A4E;padding:10px 12px;border-bottom:1px solid #F3F4F6;vertical-align:middle}
@@ -37,7 +37,16 @@ h1.post-title{font-family:'Playfair Display',serif!important;font-size:40px!impo
 .cert-link{font-size:11px;font-weight:600;color:#C0202E!important;text-decoration:none!important}
 .cert-link:hover{color:#A01820!important}
 footer{background:#161B2E!important}footer .container{color:#6B7280!important}footer a{color:#6B7280!important}
-@media(max-width:600px){.award-strip{flex-wrap:wrap}}
+@media(max-width:600px){
+  h1.post-title{font-size:30px!important}
+  .award-strip{flex-wrap:wrap!important;width:100%!important;border-radius:5px}
+  .as{flex:1 1 calc(50% - 1px)!important;padding:10px 14px!important;box-sizing:border-box}
+  .award-card{padding:12px 14px!important}
+  .award-table{font-size:11px!important;display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .award-table td,.award-table th{padding:7px 5px!important;white-space:nowrap}
+  .year-badge{font-size:9px!important;padding:1px 5px}
+  .svc-section h2{font-size:17px!important}
+}
 </style>
 </head>
 <body class="fixed-top-nav">
@@ -79,119 +88,62 @@ footer{background:#161B2E!important}footer .container{color:#6B7280!important}fo
   <div class="as"><div class="as-num" style="color:#C0202E">2012</div><div class="as-label">First award</div></div>
 </div>
 
-<!-- ===== MEMBERSHIPS & DISTINCTIONS ===== -->
 <div class="svc-section">
   <h2>🏅 Memberships &amp; Distinctions</h2>
-
   <div class="award-card award-card-blue">
     <div class="award-title">IEEE Senior Member</div>
     <div class="award-meta">📅 Elevated May 2025 &nbsp;·&nbsp; Institute of Electrical and Electronics Engineers</div>
   </div>
-
   <div class="award-card award-card-green">
     <div class="award-title">Top 1000 Scholars 2026 — #311 of 7,890 (Top 4%)</div>
     <div class="award-meta">📅 2026 &nbsp;·&nbsp; Soft Robotics and Applications · Global Scholar Recognition Program</div>
   </div>
 </div>
 
-<!-- ===== RESEARCH AWARDS ===== -->
 <div class="svc-section">
   <h2>🏆 Research &amp; Academic Awards</h2>
-
   <div class="award-card award-card-crimson" style="margin-bottom:12px">
     <div class="award-title">Best Paper Runner-Up Award</div>
     <div class="award-meta">📅 March 2024 &nbsp;·&nbsp; IEEE Conference on Pervasive Computing and Communications (PerCom), Biarritz, France</div>
     <a href="/assets/pdf/Percom_certificate.pdf" target="_blank" class="award-link red">📄 View certificate</a>
   </div>
-
   <div class="award-card award-card-gold" style="margin-bottom:12px">
     <div class="award-title">Dean's Ph.D. Scholar Award</div>
     <div class="award-meta">📅 April 2024 &nbsp;·&nbsp; Missouri University of Science and Technology, USA</div>
     <a href="https://news.mst.edu/2024/05/sts-college-of-engineering-and-computing-ph-d-students-receive-deans-awards/" target="_blank" rel="noopener" class="award-link amber">🔗 See news</a>
   </div>
-
   <table class="award-table">
     <thead><tr><th>Year</th><th>Award</th><th>Institution</th><th></th></tr></thead>
     <tbody>
-      <tr>
-        <td><span class="year-badge">Nov 2023</span></td>
-        <td>3MT Final List Competition Award</td>
-        <td class="inst-txt">Missouri University of Science and Technology</td>
-        <td><a href="/assets/img/3MT_2024.jpg" target="_blank" class="cert-link">📄 See photo</a></td>
-      </tr>
-      <tr>
-        <td><span class="year-badge">Nov 2022</span></td>
-        <td>3MT Final List Competition Award</td>
-        <td class="inst-txt">Missouri University of Science and Technology</td>
-        <td><a href="https://econnection.mst.edu/2022/11/sundaramoorthy-wins-three-minute-thesis-competition/" target="_blank" rel="noopener" class="cert-link">🔗 See news</a></td>
-      </tr>
-      <tr>
-        <td><span class="year-badge">Aug 2017</span></td>
-        <td>Best Teaching Award</td>
-        <td class="inst-txt">Higher Institute of Engineering in Elshorouk City, Egypt</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><span class="year-badge">Sep 2012</span></td>
-        <td>Excellent Student Award</td>
-        <td class="inst-txt">Higher Institute of Engineering in Elshorouk City, Egypt</td>
-        <td></td>
-      </tr>
+      <tr><td><span class="year-badge">Nov 2023</span></td><td>3MT Final List Competition Award</td><td class="inst-txt">Missouri University of Science and Technology</td><td><a href="/assets/img/3MT_2024.jpg" target="_blank" class="cert-link">📄 See photo</a></td></tr>
+      <tr><td><span class="year-badge">Nov 2022</span></td><td>3MT Final List Competition Award</td><td class="inst-txt">Missouri University of Science and Technology</td><td><a href="https://econnection.mst.edu/2022/11/sundaramoorthy-wins-three-minute-thesis-competition/" target="_blank" rel="noopener" class="cert-link">🔗 See news</a></td></tr>
+      <tr><td><span class="year-badge">Aug 2017</span></td><td>Best Teaching Award</td><td class="inst-txt">Higher Institute of Engineering in Elshorouk City, Egypt</td><td></td></tr>
+      <tr><td><span class="year-badge">Sep 2012</span></td><td>Excellent Student Award</td><td class="inst-txt">Higher Institute of Engineering in Elshorouk City, Egypt</td><td></td></tr>
     </tbody>
   </table>
 </div>
 
-<!-- ===== NSF TRAVEL AWARDS ===== -->
 <div class="svc-section">
   <h2>✈️ NSF Student Travel Awards</h2>
   <table class="award-table">
     <thead><tr><th>Date</th><th>Conference</th><th>Location</th></tr></thead>
     <tbody>
-      <tr>
-        <td><span class="year-badge">Feb 2024</span></td>
-        <td>IEEE Conference on Pervasive Computing and Communications (PerCom)</td>
-        <td class="inst-txt">🇫🇷 Biarritz, France</td>
-      </tr>
-      <tr>
-        <td><span class="year-badge">Dec 2023</span></td>
-        <td>IEEE Global Communications Conference (GlobeCom)</td>
-        <td class="inst-txt">🇲🇾 Kuala Lumpur, Malaysia</td>
-      </tr>
-      <tr>
-        <td><span class="year-badge">May 2023</span></td>
-        <td>IEEE International Conference on Communications (ICC)</td>
-        <td class="inst-txt">🇮🇹 Rome, Italy</td>
-      </tr>
+      <tr><td><span class="year-badge">Feb 2024</span></td><td>IEEE Conference on Pervasive Computing and Communications (PerCom)</td><td class="inst-txt">🇫🇷 Biarritz, France</td></tr>
+      <tr><td><span class="year-badge">Dec 2023</span></td><td>IEEE Global Communications Conference (GlobeCom)</td><td class="inst-txt">🇲🇾 Kuala Lumpur, Malaysia</td></tr>
+      <tr><td><span class="year-badge">May 2023</span></td><td>IEEE International Conference on Communications (ICC)</td><td class="inst-txt">🇮🇹 Rome, Italy</td></tr>
     </tbody>
   </table>
 </div>
 
-<!-- ===== SCHOLARSHIPS & FELLOWSHIPS ===== -->
 <div class="svc-section">
   <h2>🎓 Scholarships &amp; Fellowships</h2>
   <table class="award-table">
     <thead><tr><th>Date</th><th>Award</th><th>Institution</th></tr></thead>
     <tbody>
-      <tr>
-        <td><span class="year-badge">Jan 2022</span></td>
-        <td>Ph.D. Scholarship</td>
-        <td class="inst-txt">Missouri University of Science and Technology, USA</td>
-      </tr>
-      <tr>
-        <td><span class="year-badge">Jul 2021</span></td>
-        <td>Research Assistant Fellowship</td>
-        <td class="inst-txt">Tennessee Technological University, USA</td>
-      </tr>
-      <tr>
-        <td><span class="year-badge">Oct 2017</span></td>
-        <td>M.Sc. Scholarship</td>
-        <td class="inst-txt">University of Rostock, Germany</td>
-      </tr>
-      <tr>
-        <td><span class="year-badge">Sep 2007</span></td>
-        <td>B.Sc. Scholarship</td>
-        <td class="inst-txt">Higher Institute of Engineering in Elshorouk City, Egypt</td>
-      </tr>
+      <tr><td><span class="year-badge">Jan 2022</span></td><td>Ph.D. Scholarship</td><td class="inst-txt">Missouri University of Science and Technology, USA</td></tr>
+      <tr><td><span class="year-badge">Jul 2021</span></td><td>Research Assistant Fellowship</td><td class="inst-txt">Tennessee Technological University, USA</td></tr>
+      <tr><td><span class="year-badge">Oct 2017</span></td><td>M.Sc. Scholarship</td><td class="inst-txt">University of Rostock, Germany</td></tr>
+      <tr><td><span class="year-badge">Sep 2007</span></td><td>B.Sc. Scholarship</td><td class="inst-txt">Higher Institute of Engineering in Elshorouk City, Egypt</td></tr>
     </tbody>
   </table>
 </div>
