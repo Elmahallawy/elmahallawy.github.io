@@ -44,6 +44,22 @@ nav_order: 4
       </a> [MSc, Starting Fall 2025]
     </div>
   </li>
+
+  <!-- Photo pending: upload as /assets/img/Gabriel_Adams.jpg -->
+  <li style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="/assets/img/Gabriel_Adams.jpg" alt="Gabriel Adams" onerror="this.style.visibility='hidden'" style="width: 90px; height: 90px; margin-right: 10px;">
+    <div style="margin-top: 0.7cm;">
+      Gabriel Adams [MSc, Expected Graduation Fall 2026]
+    </div>
+  </li>
+
+  <!-- Photo pending: upload as /assets/img/Benjamin_Barlow.jpg -->
+  <li style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="/assets/img/Benjamin_Barlow.jpg" alt="Benjamin Barlow" onerror="this.style.visibility='hidden'" style="width: 90px; height: 90px; margin-right: 10px;">
+    <div style="margin-top: 0.7cm;">
+      Benjamin Barlow [MSc]
+    </div>
+  </li>
 </ul>
 
 
